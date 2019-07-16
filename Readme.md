@@ -15,6 +15,7 @@ Clone the repo to your own system. There is a single Juypter notebook.
 This program has the following prerequisites:
 
 Python 3.8
+Jupyter Notebook 5.0.0 (e.g. via Anaconda)
 Pygame - this can be downloaded at pygame.org
 libav - can be installed using Homebrew: brew install libav
 
@@ -28,6 +29,8 @@ To operate this program, use the following steps:
 2) Wait until enough frames are generated
 3) Press a key to interrupt video generation
 4) Wait for completion of the video
+
+Warning - disable iCloud synchronisation on the output directory for this program if you produce a large number of frames, otherwise it could tie up your laptop for a long time. 
 
 ## Versions
 
