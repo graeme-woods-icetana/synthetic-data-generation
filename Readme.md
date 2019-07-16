@@ -1,4 +1,4 @@
-#Synthetic video data generation
+# Synthetic video data generation
 
 This project is designed to generate synthetic abstract video data at a specified level of anomalies.
 
@@ -6,11 +6,11 @@ Anomalies are different types of movements (different direction, size, part of t
 
 This project also allows transition between states to simulate diurnal or weekly cycles in the real world.
 
-##Getting started
+## Getting started
 
 Clone the repo to your own system. There is a single Juypter notebook.
 
-##Prerequisites
+## Prerequisites
 
 This program has the following prerequisites:
 
@@ -20,7 +20,7 @@ libav - can be installed using Homebrew: brew install libav
 
 Note: Homebrew can be installed at command line with: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-##Operating
+## Operation
 
 To operate this program, use the following steps:
 
@@ -29,7 +29,7 @@ To operate this program, use the following steps:
 3) Press a key to interrupt video generation
 4) Wait for completion of the video
 
-##Versioning
+## Versions
 
 The following changes have been made:
 
