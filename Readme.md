@@ -35,6 +35,6 @@ The following changes have been made:
 
 0.1 - Original concept
 
-##Authors
+## Author
 
 Graeme Woods
